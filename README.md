@@ -1,5 +1,7 @@
 # SSH Signatures
 
+A playground based on [this SuperUser answer](https://superuser.com/a/1616656) about ssh signatures with `ssh-keygen`.
+
 ## Create a Private/Public Key-Pair
 
 ```
